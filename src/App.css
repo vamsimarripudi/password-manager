@@ -185,6 +185,8 @@ body {
 .unorder-list {
   list-style-type: none;
   display: flex;
+  flex-wrap: wrap;
+  border-radius: 10px;
 }
 
 .list-item {
